@@ -2,7 +2,7 @@
 GFG HACKATHON
 
 Problem Statement
-Title: Closing the "Last-Mile" Gap in Pharmaceutical Waste Management using AI and Cloud-Scale Logistics.
+Title:THE PLANET PRESCRIPTION: Closing the "Last-Mile" Gap in Pharmaceutical Waste Management using AI and Cloud-Scale Logistics.
 
 1. The Context:
   India is one of the world's largest consumers of pharmaceuticals, yet it lacks a formal system for Household Medical Waste (HMW).
